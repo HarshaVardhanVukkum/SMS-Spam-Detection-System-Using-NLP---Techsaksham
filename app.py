@@ -37,3 +37,4 @@ if st.button("Predict"):
             st.write("✅ This message is **Ham** (Not Spam).")
     else:
         st.write("Please enter a message to predict.")
+git init
