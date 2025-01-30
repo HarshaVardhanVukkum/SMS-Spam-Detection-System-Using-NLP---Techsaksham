@@ -1,0 +1,11 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore .pyc files
+__pycache__/
+
+# Ignore model files if too large (optional, can use Git LFS if needed)
+*.pkl
+
+# Ignore other unnecessary files
+.DS_Store
